@@ -1,7 +1,7 @@
 [project]
 name = "fbt-dbfill"
 version = "0.1.0"
-description = "Add your description here"
+description = "python script to fill postgres db with fantasy data "
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
