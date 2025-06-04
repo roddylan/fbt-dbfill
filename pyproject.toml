@@ -10,4 +10,5 @@ dependencies = [
     "lxml>=5.4.0",
     "numpy>=2.2.6",
     "pandas>=2.2.3",
+    "requests>=2.32.3",
 ]
